@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="es-ar">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,7 +23,7 @@
 <body>
 	<script>
     var switchTheme = function (theme) {
-        document.getElementById('themeCss').href = `/css/themes/${theme}.css?${+new Date()}`;
+        document.getElementById('themeCss').href = `/gohugo-hacker/css/themes/${theme}.css?${+new Date()}`;
     }
 </script>
 <div class="theme-switcher">
@@ -46,7 +46,6 @@
     <button class="ubuntu" onclick='switchTheme("ubuntu")'>ubuntu</button>
     <button class="xterm" onclick='switchTheme("xterm")'>xterm</button>
 </div>
-
 	
 	<main>
 		<article>
