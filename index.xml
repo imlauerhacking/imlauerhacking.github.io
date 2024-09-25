@@ -6,8 +6,15 @@
     <description>Recent content on Imlauer Food</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 24 Sep 2024 21:09:00 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 21:35:27 -0300</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prueba</title>
+      <link>/posts/prueba/</link>
+      <pubDate>Tue, 24 Sep 2024 21:35:27 -0300</pubDate>
+      <guid>/posts/prueba/</guid>
+      <description>Prueba prueba</description>
+    </item>
     <item>
       <title>Esto es una prueba</title>
       <link>/posts/esto_es_una_prueba/</link>
