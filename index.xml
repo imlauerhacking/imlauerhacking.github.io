@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Sep 2024 21:09:00 -0300</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Esto es una prueba</title>
+      <link>/posts/esto_es_una_prueba/</link>
+      <pubDate>Tue, 24 Sep 2024 21:09:00 -0300</pubDate>
+      <guid>/posts/esto_es_una_prueba/</guid>
+      <description>Esto es una prueba. 1,2,3,4,5</description>
+    </item>
+    <item>
+      <title>Milanesa con pure</title>
+      <link>/posts/milanesa_con_pure/</link>
+      <pubDate>Tue, 24 Sep 2024 21:07:35 -0300</pubDate>
+      <guid>/posts/milanesa_con_pure/</guid>
+      <description>Hoy te enseñaré a hacer una milanesa con puré.</description>
+    </item>
+  </channel>
+</rss>
